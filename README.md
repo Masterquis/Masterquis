@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b>Virtual Machines and Windows Server</b>
-  - [Virtual Box and Windows Server 2016 Setup Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Virtual Box and Windows Server 2016 Setup Home Lab](https://github.com/Masterquis/VMAndWindowsServerLab/tree/main)
 
 <h2>🌱 My Certifications:</h2>
 
