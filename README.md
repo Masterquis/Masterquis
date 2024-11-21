@@ -7,7 +7,7 @@
 
 <h2>🌱 My Certifications:</h2>
 
-- <b>CompTIA A+</b>
+- <b>CompTIA A+ <a href="https://drive.google.com/file/d/1qAYqqyoGL0ZBmG_k6oRY5M5qDNslo27N/view?usp=sharing"> View Certificate</a></b>
   <!-- - [Virtual Box and Windows Server 2016 Setup Home Lab](https://github.com/joshmadakor1/Algorithms-Practice) -->
 - <b>CompTIA Network+ (IN PROGRESS)</b>
   <!-- - [Virtual Box and Windows Server 2016 Setup Home Lab](https://github.com/joshmadakor1/Algorithms-Practice) -->
