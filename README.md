@@ -6,6 +6,8 @@
   - [Virtual Box and Windows Server 2016 Setup Home Lab](https://github.com/Masterquis/VMAndWindowsServerLab/)
 - <b>Server Rename and Active Directory Installation</b>
   - [Server Rename and Active Directory Installation](https://github.com/Masterquis/ActiveDirectoryInstall/)
+- <b>Active Directory Search, Advanced Features, and Account Creation</b>
+  - [Active Directory Search, Advanced Features, and Account Creation](https://github.com/Masterquis/AccountCreationAndFeatures/)
 
 <h2>🌱 My Certifications:</h2>
 
