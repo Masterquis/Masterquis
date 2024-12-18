@@ -1,6 +1,11 @@
 <h1>Hey, I'm Marquis! I'm an <a href="https://github.com/Masterquis">IT Support Professional</a></h1>
 
-<h2>👨‍💻 IT Support Projects:</h2>
+<h2>👨‍💻 Tier-2 Help Desk Projects:</h2>
+
+<!-- - <b>Virtual Machines and Windows Server</b>
+  - [Virtual Box and Windows Server 2016 Setup Home Lab](https://github.com/Masterquis/VMAndWindowsServerLab/) -->
+    
+<h2>👨‍💻 Tier-1 Help Desk Projects:</h2>
 
 - <b>Virtual Machines and Windows Server</b>
   - [Virtual Box and Windows Server 2016 Setup Home Lab](https://github.com/Masterquis/VMAndWindowsServerLab/)
