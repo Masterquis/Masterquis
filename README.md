@@ -13,6 +13,8 @@
   - [Server Rename and Active Directory Installation](https://github.com/Masterquis/ActiveDirectoryInstall/)
 - <b>Active Directory Search, Advanced Features, and Account Creation</b>
   - [Active Directory Search, Advanced Features, and Account Creation](https://github.com/Masterquis/AccountCreationAndFeatures/)
+- <b>Windows 10 VM Creation and Joining to an Active Directory Domain</b>
+  - [Windows 10 VM Creation and Joining to an Active Directory Domain](https://github.com/Masterquis/Windows10JoinDomain/)
 
 <h2>🌱 My Certifications:</h2>
 
