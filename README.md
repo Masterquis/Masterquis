@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Tier-2 Help Desk Projects:</h2>
 
-<!-- - <b>Virtual Machines and Windows Server</b>
-  - [Virtual Box and Windows Server 2016 Setup Home Lab](https://github.com/Masterquis/VMAndWindowsServerLab/) -->
+- <b>DNS and Network Performance Analysis and Fix</b>
+  - [DNS and Network Performance Analysis and Fix](https://github.com/Masterquis/DNSAnalysis)
     
 <h2>👨‍💻 Tier-1 Help Desk Projects:</h2>
 
