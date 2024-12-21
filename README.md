@@ -4,6 +4,8 @@
 
 - <b>DNS and Network Performance Analysis and Fix</b>
   - [DNS and Network Performance Analysis and Fix](https://github.com/Masterquis/DNSAnalysis)
+- <b>Network Share Drive Creation and Automated Backup</b>
+  - [Network Share Drive Creation and Automated Backup](https://github.com/Masterquis/NetworkShareAndBackup)
     
 <h2>👨‍💻 Tier-1 Help Desk Projects:</h2>
 
