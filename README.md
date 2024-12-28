@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Tier-2 Help Desk Projects:</h2>
 
+- <b>Configuring Network Drive Access via Security Group in a Domain Environment</b>
+  - [Configuring Network Drive Access via Security Group in a Domain Environment](https://github.com/Masterquis/NetworkShareSecurity)
 - <b>DNS and Network Performance Analysis and Fix</b>
   - [DNS and Network Performance Analysis and Fix](https://github.com/Masterquis/DNSAnalysis)
 - <b>Network Share Drive Creation and Automated Backup</b>
